@@ -340,7 +340,8 @@ footer {
 
 
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/ad61676a-9d34-4507-938d-500e1a0bb933)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
